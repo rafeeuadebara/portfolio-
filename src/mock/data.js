@@ -36,7 +36,7 @@ export const projectsData = [
     info:
       'Explorate is a react website for tourism, using react router and hooks. I designed it to be mobile responsive and great animations for smooth effect',
     info2: '',
-    url: 'https://eager-heisenberg-cae3c5.netlify.app/',
+    url: 'https://explorate.netlify.app/',
     repo: 'https://github.com/rafeeuadebara/explore', // if no repo, the button will not show up
   },
   {
@@ -47,7 +47,7 @@ export const projectsData = [
       'Amazon products is a react online directory site that uses API data to fetch prices and rating of products for users.',
     info2:
       'For this site, i used axios to fetch my data, used state to re-render component after getting data from the API and users input  while using props to pass data through components.',
-    url: 'https://sharp-euler-f30577.netlify.app/',
+    url: 'https://amazonpay.netlify.app/',
     repo: 'https://github.com/rafeeuadebara/amazon__products', // if no repo, the button will not show up
   },
   {
@@ -57,7 +57,7 @@ export const projectsData = [
     info: 'A makeup commerce website built using Html, css and vanilla javascript',
     info2:
       'I used vanilla javascript to give visual animations for clicking and hovering, also, made sure it was visually pleasing with the image choice picked',
-    url: 'https://amazing-kirch-1bb602.netlify.app/',
+    url: 'https://adebeauty.netlify.app/',
     repo: 'https://github.com/rafeeuadebara/Adebeauty', // if no repo, the button will not show up
   },
 
@@ -68,7 +68,7 @@ export const projectsData = [
     info: 'A weather app built with vanilla javascript',
     info2:
       'For this web app, i fetched api data using vanilla javscrpit to create a responsive weather application',
-    url: 'https://zealous-kare-32ca6c.netlify.app/',
+    url: 'https://weather-rafeeu.netlify.app/',
     repo: 'https://github.com/rafeeuadebara/weather', // if no repo, the button will not show up
   },
 ];
