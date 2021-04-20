@@ -19,16 +19,27 @@ export const heroData = {
 export const aboutData = {
   img: 'me.jpg',
   paragraphOne:
-    'Building easy to use, user friendly websites and apllications, has been an amazing experice. Being a self-taught developer has been a difficult journey and humbling experience because it allowed me to gain skills such as html, css and javascript(working with APIs).',
+    'Building easy to use, user friendly websites and apllications, has been an amazing experice. Being a self-taught developer has been a difficult journey but also a humbling experience which has allowed me to gain skills such as html, css and javascript(working with APIs).',
   paragraphTwo:
-    'I love learning new tecnologies and looking for better way to improve my skills, that is why i had the pleasure to learn sass and react which allows me to use state and props to create real web applications.',
+    'I love learning new tecnologies and i always research better ways to improve my skills, I have had the pleasure to learn sass and react which allows me to use state and props to create real web applications.',
   paragraphThree:
-    'Web devlopment is a passion of mine, the industry fascinates me with its level of growth and innovation which is why i am always researching new tecnologies to improve myself as a frontend developer.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+    'Web devlopment is a passion of mine, the industry fascinates me with its level of growth and innovation which instills in me the need to discover new technologies to improve myself as a frontend developer.',
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
 export const projectsData = [
+  {
+    id: nanoid(),
+    img: 'languageti.png',
+    title: 'Languageti',
+    info:
+      'Languageti is a react widget app for learning language history, this app was created using react hooks such as useEffect and useState.',
+    info2:
+      ' Api was used in fetching data and i used the data in making the app engaging for users. The app was designed to be mobile responsive',
+    url: 'https://languageti.vercel.app/',
+    repo: 'https://github.com/rafeeuadebara/languageti', // if no repo, the button will not show up
+  },
   {
     id: nanoid(),
     img: 'explorate.png',
