@@ -11,7 +11,7 @@ export const headData = {
 export const heroData = {
   title: '',
   name: 'Rafeeu Adebara',
-  subtitle: 'A self-Taught front end developer',
+  subtitle: 'A Junior front-end developer',
   cta: '',
 };
 
@@ -19,7 +19,7 @@ export const heroData = {
 export const aboutData = {
   img: 'me.jpg',
   paragraphOne:
-    'Building easy to use, user friendly websites and apllications, has been an amazing experice. Being a self-taught developer has been a difficult journey but also a humbling experience which has allowed me to gain skills such as html, css and javascript(working with APIs).',
+    'Building easy to use, user friendly websites and apllications, has been an amazing experice. Being a Junior front-end developer has been a difficult journey but also a humbling experience which has allowed me to gain skills such as html, css and javascript(working with APIs).',
   paragraphTwo:
     'I love learning new tecnologies and i always research better ways to improve my skills, I have had the pleasure to learn sass and react which allows me to use state and props to create real web applications.',
   paragraphThree:
