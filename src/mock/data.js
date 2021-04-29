@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne:
     'Building easy to use, user friendly websites and applications, has been an amazing experience. Being a Junior front-end developer has been a difficult journey but also a humbling experience which has allowed me to gain skills such as html, css and javascript(working with APIs).',
   paragraphTwo:
-    'I love learning new technologies and i always research better ways to improve my skills, I have had the pleasure to learn sass and react which allows me to use state and props to create real web applications.',
+    'I love learning new technologies and I always research better ways to improve my skills, I have had the pleasure to learn sass and react which allows me to use state and props to create real web applications.',
   paragraphThree:
     'Web development is a passion of mine, the industry fascinates me with its level of growth and innovation which instills in me the need to discover new technologies to improve myself as a frontend developer.',
   resume: '', // if no resume, the button will not show up
